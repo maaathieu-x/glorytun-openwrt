@@ -5,7 +5,7 @@ PKG_VERSION:=0.3.4
 PKG_RELEASE:=0
 PKG_SOURCE:=glorytun-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://github.com/angt/glorytun/releases/download/v$(PKG_VERSION)
-PKG_HASH:=1f6bd01731e40e51d634555bcaab90deafcc738e55722a599186533793c1315b
+PKG_HASH:=137d9c525a05bb605163df0465367d36e943715ca773ce43d5ea66f0597600a3
 PKG_FIXUP:=autoreconf
 
 include $(INCLUDE_DIR)/package.mk
